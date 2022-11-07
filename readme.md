@@ -1,4 +1,4 @@
-# Cadastro e listagem de produto: Processo seletivo OAK
+# Reprodução do Ambiente Virtual de Aprendizagem (AVA) da UFV
 
 ![preview](./.github/preview.jpg)
 
