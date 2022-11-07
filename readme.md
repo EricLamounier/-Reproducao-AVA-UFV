@@ -1,6 +1,6 @@
 # Cadastro e listagem de produto: Processo seletivo OAK
 
-![preview](./images/)
+![preview](./.github/preview.jpg)
 
 Projeto construído em estudos básicos iniciais de HTML5 e CSS3 na recriação da página de login da Universidade Federal de Viçosa
 
