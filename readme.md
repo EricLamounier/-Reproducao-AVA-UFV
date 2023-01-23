@@ -15,3 +15,5 @@ Projeto construído em estudos básicos iniciais de HTML5 e CSS3 na recriação 
 eric.botelho@ufv.br
 
 eric_lamounier@outlook.com
+
+<img alt="javascript" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
