@@ -8,27 +8,32 @@ body {
     display: flex;
     flex-direction: column;
     width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
     background-image: url("../images/background.jpg");
-    background-size: cover;
     padding-top: 100px;
+    background-color: grey;
 }
 
 main {
-    flex: 1
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    height: 100vh;
+
 }
 
 main #container {
     width: 80%;
     background-color: white;
     max-width: 640px;
+    height: 460px;
     display: flex;
     flex: 1;
     flex-direction: column;
     border-radius: 10px;
     text-align: center;
     padding-bottom: 10px;
-    margin: auto auto auto auto;
+    margin-bottom: 30px;
 }
 
 main section {
@@ -134,7 +139,7 @@ main .duvidas a {
     text-align: center;
     justify-content: center;
     padding: 5px;
-    width: 100%;
+    width: 100%
 }
 
 .rodape svg {
